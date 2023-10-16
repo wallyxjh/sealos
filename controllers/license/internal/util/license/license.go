@@ -2,7 +2,7 @@ package license
 
 import (
 	"time"
-
+  
 	licensev1 "github.com/labring/sealos/controllers/license/api/v1"
 )
 
